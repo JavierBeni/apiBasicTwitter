@@ -5,7 +5,7 @@ API created to emulate a twitter.
 It use rest methods to see messages of users or create new posts.
 
 **_GUIDE._**
-This api is done with 
+This api is done with Java. I show the differents url to test this project.
 
 
 - **WALL** (Show all messages of the user sorted by time (id))
